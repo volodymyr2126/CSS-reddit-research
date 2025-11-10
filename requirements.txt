@@ -3,3 +3,6 @@ numpy
 plotly
 nbformat
 ipykernel
+spacy
+textblob
+tqdm
